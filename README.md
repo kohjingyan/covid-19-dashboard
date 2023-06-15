@@ -1,5 +1,5 @@
 # Covid-19-dashboard
-This is an interactive dashboard that is created using Power BI. It uses COVID-19 dataset to present of the overview of the seriousness of COVID-19.
+This is an interactive dashboard that is created using Power BI. It uses COVID-19 dataset to visualize of the overview of the seriousness of COVID-19.
 
 You may find the link to the dataset [here](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 
@@ -11,3 +11,5 @@ You may find the link to the dataset [here](https://www.kaggle.com/datasets/imde
 - It has a **map** to visualize where has the most number of cases. The larger the bubble sizes, the more there are.
 - It has **colors** to represent good (green) or bad (red).
 - It shows which continent or country has the highest confirmed cases using **bar charts**.
+
+If you have any questions or feedback, please feel free to reach out to me at kohjingyan@gmail.com or at [LinkedIn](https://www.linkedin.com/in/koh-jing-yan/).
