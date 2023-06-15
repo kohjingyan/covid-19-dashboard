@@ -7,7 +7,7 @@ You may find the link to the dataset [here](https://www.kaggle.com/datasets/imde
 ![Covid 19 dashboard](https://github.com/kohjingyan/covid-19-dashboard/assets/120747480/3233b111-6368-43f8-a28f-8a301d17ee52)
 
 ## Features of the dashboard
-- It has a slicer to filter to the country that you are particularly interested about.
-- It has a map to visualize where has the most number of cases. The larger the bubble sizes, the more there are.
-- It has colors to represent good (green) or bad (red).
-- It shows which continent or country has the highest confirmed cases.
+- It has a **slicer** to filter to the country that you are particularly interested about.
+- It has a **map** to visualize where has the most number of cases. The larger the bubble sizes, the more there are.
+- It has **colors** to represent good (green) or bad (red).
+- It shows which continent or country has the highest confirmed cases using **bar charts**.
